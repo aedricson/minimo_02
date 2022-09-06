@@ -1,0 +1,15 @@
+.main__section {
+  margin-top: 100px;
+  padding: 0 80px;
+}
+
+.main__content {
+  height: 1370px;
+}
+
+@media (max-width: 768px) {
+  .main__section {
+    margin-top: 50px;
+    padding: 0 10px;
+  }
+}
